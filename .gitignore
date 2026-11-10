@@ -1,0 +1,5 @@
+# GitHub credentials and Outlook SMTP settings
+.env
+.venv/
+__pycache__/
+data/star_history.json
